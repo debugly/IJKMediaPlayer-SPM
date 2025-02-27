@@ -1,6 +1,6 @@
 ## SwiftPM Compatible
 
-debulgy/ijkplayer from k0.11.9 support integration via Swift Package Manager.
+[debugly/ijkplayer](https://github.com/debugly/ijkplayer) from k0.11.9 support integration via Swift Package Manager.
 
 1. From the Xcode menu click **File > Swift Packages > Add Package Dependency.**
 
