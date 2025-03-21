@@ -23,6 +23,6 @@ let package = Package(
         .binaryTarget(
             name: "IJKMediaPlayerKit",
             url: "https://github.com/debugly/ijkplayer/releases/download/k0.12.0/IJKMediaPlayerKit.zip",
-            checksum: "b9a5e52c372305bdf40a73bd9a17441b1f2751b3136de689ec07216606ee8555e")
+            checksum: "b9a5e52c372305bdf40a73bd9a17441b1f2751b3136de689ec07216606ee8555")
     ]
 )
